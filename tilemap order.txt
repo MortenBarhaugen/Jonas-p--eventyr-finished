@@ -1,0 +1,6 @@
+Tilemap: 1
+Rom Floor: 0
+Rom Decoration: 5
+Rom Decoration 2: 3
+Rom Terskel: 2
+Player: 4
